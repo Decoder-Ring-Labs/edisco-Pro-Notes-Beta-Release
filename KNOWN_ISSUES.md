@@ -4,7 +4,7 @@ This document tracks known issues and limitations in the eDisco Pro Notes Beta.
 
 ## Current Release
 
-### Beta 0.0.1
+### Beta 0.1.1
 
 #### UI/UX
 - [ ] Timeline view may not render correctly on very small screens (< 320px width)
@@ -17,7 +17,7 @@ This document tracks known issues and limitations in the eDisco Pro Notes Beta.
 
 #### Data
 - [ ] No automatic backup mechanism - users must manually export
-- [ ] Attachment file size limited to 50MB per file
+- [ ] Attachment file size limited to 1 GiB (1,073,741,824 bytes) per file
 
 ## Fixed in This Release
 
